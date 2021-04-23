@@ -1,2 +1,12 @@
-# ig_logo
-Logo de IG en css
+### Logo de Instagram.
+
+⚒ Logo de IG realizado con css puro y usando gradientes de colores para el efecto.
+
+para ver el deployed: [ig-logo](https://sifrisky.github.io/ig-logo/) 
+
+### Preview: 
+![](screenshot.png)
+
+Made with 💛
+
+
